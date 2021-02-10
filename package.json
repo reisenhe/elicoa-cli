@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "He Changehao"
+  },
+  "bin": {
+    "licoa": "bin/licoa.js"
+  },
+  "bugs": {
+    "url": "https://github.com/reisenhe/licoa-cli/issues"
+  },
+  "description": "licoa self made Cli",
+  "homepage": "https://github.com/reisenhe/licoa-cli#readme",
+  "license": "ISC",
+  "name": "licoa-cli",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reisenhe/licoa-cli.git"
+  },
+  "version": "0.1.0",
+  "dependencies": {
+    "commander": "^7.0.0",
+    "download-git-repo": "^3.0.2"
+  }
+}
