@@ -5,8 +5,8 @@
     "url": "https://github.com/reisenhe/typescript-study.git#main"
   },
   "vue-vfeng": {
-    "name": "vue2.0 商城项目",
+    "name": "vue2.0 项目",
     "value": "vue-vfeng",
-    "url": "https://github.com/reisenhe/vfeng-vue-mobile.git#main"
+    "url": "https://github.com/reisenhe/licoa-vue-template.git"
   }
 }
