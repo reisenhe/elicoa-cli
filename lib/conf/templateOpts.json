@@ -1,5 +1,5 @@
 {
-  "typescript": {
+  "ts1": {
     "name": "typescript 基础模板",
     "value": "ts1",
     "url": "https://github.com/reisenhe/typescript-study.git#main"
@@ -7,6 +7,6 @@
   "vue-vfeng": {
     "name": "vue2.0 项目",
     "value": "vue-vfeng",
-    "url": "https://github.com/reisenhe/licoa-vue-template.git"
+    "url": "https://github.com/reisenhe/licoa-vue-template.git#main"
   }
 }
