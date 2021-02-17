@@ -4,9 +4,9 @@
     "value": "ts1",
     "url": "https://github.com/reisenhe/typescript-study.git#main"
   },
-  "vue-vfeng": {
+  "vue": {
     "name": "vue2.0 项目",
-    "value": "vue-vfeng",
+    "value": "vue",
     "url": "https://github.com/reisenhe/licoa-vue-template.git#main"
   }
 }
